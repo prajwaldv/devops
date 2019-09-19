@@ -20,7 +20,7 @@ void fib()
 									          second = next;
 										      }
 					        printf("%d\n", next);
-						  }
+						  } 
 		   
 		
 }
